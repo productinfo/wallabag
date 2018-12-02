@@ -58,6 +58,7 @@ config:
         password: 'Kennwort'
         rules: 'Tagging-Regeln'
         new_user: 'Benutzer hinzufügen'
+        reset: 'Zurücksetzen'
     form:
         save: 'Speichern'
     form_settings:

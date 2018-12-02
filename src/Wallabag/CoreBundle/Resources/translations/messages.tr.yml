@@ -58,6 +58,7 @@ config:
         password: 'Şifre'
         rules: 'Etiketleme kuralları'
         new_user: 'Bir kullanıcı ekle'
+        # reset: 'Reset area'
     form:
         save: 'Kaydet'
     form_settings:

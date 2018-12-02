@@ -58,6 +58,7 @@ config:
         password: 'Senha'
         rules: 'Regras de tags'
         new_user: 'Adicionar um usuário'
+        # reset: 'Reset area'
     form:
         save: 'Salvar'
     form_settings:
