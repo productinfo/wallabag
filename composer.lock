@@ -6213,16 +6213,16 @@
         },
         {
             "name": "php-amqplib/rabbitmq-bundle",
-            "version": "2.14.0",
+            "version": "2.16.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-amqplib/RabbitMqBundle.git",
-                "reference": "a80937c30214ffb36683c27edb226ed59492bd08"
+                "reference": "8c18f6db79b59de88e57bd805192a98e48076c41"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-amqplib/RabbitMqBundle/zipball/a80937c30214ffb36683c27edb226ed59492bd08",
-                "reference": "a80937c30214ffb36683c27edb226ed59492bd08",
+                "url": "https://api.github.com/repos/php-amqplib/RabbitMqBundle/zipball/8c18f6db79b59de88e57bd805192a98e48076c41",
+                "reference": "8c18f6db79b59de88e57bd805192a98e48076c41",
                 "shasum": ""
             },
             "require": {
@@ -6286,9 +6286,9 @@
             ],
             "support": {
                 "issues": "https://github.com/php-amqplib/RabbitMqBundle/issues",
-                "source": "https://github.com/php-amqplib/RabbitMqBundle/tree/2.14.0"
+                "source": "https://github.com/php-amqplib/RabbitMqBundle/tree/2.16.0"
             },
-            "time": "2024-01-10T14:06:07+00:00"
+            "time": "2024-03-25T12:12:05+00:00"
         },
         {
             "name": "php-http/client-common",
