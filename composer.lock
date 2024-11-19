@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "41a679553ce512cb618f3666e243720c",
+    "content-hash": "be4bef9eec18ce9496f715f89ed3ddd5",
     "packages": [
         {
             "name": "babdev/pagerfanta-bundle",
@@ -19422,16 +19422,16 @@
         },
         {
             "name": "shipmonk/composer-dependency-analyser",
-            "version": "1.5.3",
+            "version": "1.8.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/shipmonk-rnd/composer-dependency-analyser.git",
-                "reference": "00b5023bcc0c9c4f34c9246b3faf5b780e144622"
+                "reference": "0acd9d94be4d9397055ff012d0abf2ae88072e99"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/shipmonk-rnd/composer-dependency-analyser/zipball/00b5023bcc0c9c4f34c9246b3faf5b780e144622",
-                "reference": "00b5023bcc0c9c4f34c9246b3faf5b780e144622",
+                "url": "https://api.github.com/repos/shipmonk-rnd/composer-dependency-analyser/zipball/0acd9d94be4d9397055ff012d0abf2ae88072e99",
+                "reference": "0acd9d94be4d9397055ff012d0abf2ae88072e99",
                 "shasum": ""
             },
             "require": {
@@ -19440,17 +19440,17 @@
                 "php": "^7.2 || ^8.0"
             },
             "require-dev": {
-                "editorconfig-checker/editorconfig-checker": "^10.3.0",
-                "ergebnis/composer-normalize": "^2.19",
+                "editorconfig-checker/editorconfig-checker": "^10.6.0",
+                "ergebnis/composer-normalize": "^2.19.0",
                 "ext-dom": "*",
                 "ext-libxml": "*",
-                "phpcompatibility/php-compatibility": "^9.3",
-                "phpstan/phpstan": "^1.10.63",
-                "phpstan/phpstan-phpunit": "^1.1.1",
-                "phpstan/phpstan-strict-rules": "^1.2.3",
-                "phpunit/phpunit": "^8.5.28 || ^9.5.20",
-                "shipmonk/name-collision-detector": "^2.0.0",
-                "slevomat/coding-standard": "^8.0.1"
+                "phpcompatibility/php-compatibility": "^9.3.5",
+                "phpstan/phpstan": "^1.12.3",
+                "phpstan/phpstan-phpunit": "^1.4.0",
+                "phpstan/phpstan-strict-rules": "^1.6.0",
+                "phpunit/phpunit": "^8.5.39 || ^9.6.20",
+                "shipmonk/name-collision-detector": "^2.1.1",
+                "slevomat/coding-standard": "^8.15.0"
             },
             "bin": [
                 "bin/composer-dependency-analyser"
@@ -19482,9 +19482,9 @@
             ],
             "support": {
                 "issues": "https://github.com/shipmonk-rnd/composer-dependency-analyser/issues",
-                "source": "https://github.com/shipmonk-rnd/composer-dependency-analyser/tree/1.5.3"
+                "source": "https://github.com/shipmonk-rnd/composer-dependency-analyser/tree/1.8.1"
             },
-            "time": "2024-04-22T13:28:23+00:00"
+            "time": "2024-11-18T12:58:21+00:00"
         },
         {
             "name": "symfony/browser-kit",
